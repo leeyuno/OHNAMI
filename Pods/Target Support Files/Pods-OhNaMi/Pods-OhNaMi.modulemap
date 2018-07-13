@@ -1,0 +1,6 @@
+framework module Pods_OhNaMi {
+  umbrella header "Pods-OhNaMi-umbrella.h"
+
+  export *
+  module * { export * }
+}

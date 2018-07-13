@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<false/>
+	<key>FIREBASE_ANALYTICS_COLLECTION_DEACTIVATED</key>
+	<true/>
+	<key>FIREBASE_ANALYTICS_COLLECTION_ENABLED</key>
+	<false/>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>84630256733-pq0iuhnqjo74g0co9fj242i9s220m88d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.84630256733-pq0iuhnqjo74g0co9fj242i9s220m88d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5ERhdI62OldfADM81D7nTefRda1cJBT8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>84630256733</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.FrogLAB.OhNaMi</string>
+	<key>PROJECT_ID</key>
+	<string>onami-29bb0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>onami-29bb0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:84630256733:ios:47dd44b05d7568b7</string>
+	<key>DATABASE_URL</key>
+	<string>https://onami-29bb0.firebaseio.com</string>
+</dict>
+</plist>
