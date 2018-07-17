@@ -1,2 +1,2 @@
 # OHNAMI
-OHNAMI
+Social dating application
